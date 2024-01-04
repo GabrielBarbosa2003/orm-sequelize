@@ -1,0 +1,4 @@
+comandos DB:
+- > npx sequelize-cli db:migrate : migramos as migrations para o db;
+- > npx sequelize-cli db:seed:all : passa as seeds pro bd;
+- > npx sequelize-cli seed:generate --name demo-Pessoa : Geramos uma seed com o nome pessoa;
